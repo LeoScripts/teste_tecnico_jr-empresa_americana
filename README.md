@@ -1,7 +1,7 @@
 # teste_tecnico_jr-empresa_americana
 Teste tecnico Jr para empresa americana que fiz a tempos atraz faz bastante tempo.
 
-## o teste
+## meu fluxo
 - cria uma matriz para armazenar palavras aleatorias
 - cria matriz pra armazenar palindromos
 - coloca numeros gerado aleatorios dentro da matriz
@@ -11,8 +11,6 @@ Teste tecnico Jr para empresa americana que fiz a tempos atraz faz bastante temp
 
 
 ## resolução e descrição do teste
-
-## description in ingles and portuguese
 
 - ingles
 Write a script that creates an array with 10000 random words 
